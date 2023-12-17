@@ -1,4 +1,4 @@
-module github.com/RoaringBitmap/roaring
+module github.com/tsenart/roaring
 
 go 1.14
 

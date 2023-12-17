@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/RoaringBitmap/roaring/internal"
+	"github.com/tsenart/roaring/internal"
 )
 
 type container interface {
